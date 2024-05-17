@@ -14,7 +14,26 @@ I've been developing the Contribution Path framework for just over two years now
 1. [What is a Contribution Path?](#what-is-a-contribution-path)
     1. [Key traits of a Contribution Path](#key-traits-of-a-contribution-path)
     1. [Benefits of a Contribution Path](#benefits-of-a-contribution-path)
-1. [How does a Contribution Path work?](#how-does-a-contribution-path-work)
+1. [Contribution Path roles overview](#contribution-path-roles-overview)
+    1. [`wannabe-contributor` role overview](#wannabe-contributor-role-overview)
+    1. [`contributor-in-training` role overview](#contributor-in-training-role-overview)
+    1. [`contributor` role overview](#contributor-role-overview)
+    1. [`super-contributor` role overview](#super-contributor-role-overview)
+    1. [`maintainer` role overview](#maintainer-role-overview)
+<!-- 1. [Role deep dives](#role-deep-dives)
+    1. [`wannabe-contributor` role](#wannabe-contributor-role)
+    1. [`contributor-in-training` role](#contributor-in-training-role)
+    1. [`contributor` role](#contributor-role)
+    1. [`super-contributor` role](#super-contributor-role)
+    1. [`maintainer` role](#maintainer-role) -->
+
+<!-- 1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []() -->
+
 <!-- 1. Onboarding
 1. Accountability & expectation setting
 1. Rewards & incentives
@@ -47,28 +66,76 @@ The Contribution Path framework works on three levels:
 
 ## Benefits of a Contribution Path
 
-Contribution Paths have the following benefits:
+### For you
 
-* ***Scale:*** As established paths (almost) run themselves, they are easy to scale up.
+* ***Reliable contributors:*** Paths create skill or talent based groups of contributors that one can reasonably rely on for consistent output.
+* ***Independent:*** Established paths maintain their own admin, run their own progression programs and facilitate their own coordination. In theory, they could manage their own rewards, however the incentives for quality would need to remain external.
+
+### For contributors
+
+Contribution Paths have the following benefits for contributors:
+
 * ***Accessibility:*** Enabling community members to onboard themselves through structured and intentional documentation can actually reduce support loads as individuals outside of the path can help themselves.
 * ***Flexibility:*** The Contribution Path framework is flexible enough to cover a wide variety of contribution types, making it easier to decentralize more responsibility into your community.
 * ***Clear expectations:*** Clearly defined roles and expectations reduce a lot of the human friction and politics that can arise when contributing in a decentralized system.
 * ***Churn resilience:*** Through the use of the `maintainer` role, Contribution Paths are relatively resilient to contributor churn, making them more sustainable over longer time horizons.
 
-# How does a Contribution Path work?
+# Contribution Path roles overview
 
 Contribution Paths are made up of four successive roles and a fifth maintenance role.
 
-1. `wannabe-contributor`
-1. `contributor-in-training`
-1. `contributor`
-1. `super-contributor`
+`wannabe-contributor` → `contributor-in-training` → `contributor` → `super-contributor`
 
-* `maintainer`
+These successive roles allow for reliable skill bands to form within the contributor community. These different roles contribute towards progressively higher context tasks, and once a path is consistency execute, quality can be tuned to enable reliable executions of more impactful tasks.
 
-Each of these roles play a critical part in social signaling, onboarding, expectation setting and incentive design. Lets break them down!
+`maintainer`
 
-## Wannabe-contributors role
+Maintainers give the path structure and consistency. Maintainers track contributions, facilitate memberships for new `in-training` contributors, facilitate path calls and events, and demote contributors who fall below activity or quality minimums. Maintainers can be any member of a path. All their actions and data collection is public and verified by other contributors through incentivize tasks.
+
+In combination these successive and maintenance roles enables the paths to be reliable execution systems, that can handle execution.
+
+## `wannabe-contributor` role overview
+
+* ***Context exposure:*** What path specific context is there that this contribution may require? For example, user supporters would need to understand how a product worked.
+* ***Expectation setting:*** What does it mean to be a part of this path, what is expected from me in the various roles?
+* ***Contributor culture exposure:*** How do I get involved in contributing? What does a good vs bad contribution look like?
+* ***Bot, spammer & promoter filtering:*** The sooner this is done the better, but in this stage it is constant monitoring.
+* ***Commitment assessment:*** A set amount of time a contributor must stay at this level regardless of skill or talent. Usually 3 months. This ensures that contributors are "in it for the long haul" and are able to consistently engage.
+* ***Contribution quality assessment:*** This role has a limited number of low context tasks that contributors are able to participate in or complete, allowing them to showcase their ability.
+
+## `contributor-in-training` role overview
+
+* ***Mentorship for skills & quality:*** How do things get done, and what is the expectation for contributions? Each `in-training` contributor is assigned a mentor from the existing `contributor` role. This mentor will guide them through the contribution process, and guide them through contributing work that meets (and hopefully exceeds) quality minimums.
+* ***Mentorship for culture:*** Who can I ask about x? Culture mentors facilitate introductions into the contributor community. Like skill mentors, are assigned to mew `in-training` contributors by the `maintainer`s. Having both creates some accountability, and gives the new contributor more high contact touch points with the contributor community.
+* ***Commitment assessment:*** A set amount of time a contributor must stay at this level regardless of skill or talent. Usually 2 months. This ensures that contributors are "in it for the long haul" and are able to consistently engage.
+* ***Contribution quality assessment:*** This role has a limited number of higher context and skill requiring tasks that contributors are able to participate in or complete, allowing them to showcase their ability.
+
+## `contributor` role overview
+
+* ***Execution engine:*** `contributor`s are the powerhouse of Contribution Paths, and are were most of the high quality contributions will be done.
+* ***Mentorship & up-skilling:***
+* ***:***
+* ***:***
+
+## `super-contributor` role overview
+
+* ***High performers:*** This role contains only the highest performing contributors. They should have a high contextual understanding and well as incredible talent or skill in the given contribution type. They can be reliably trusted to contribute impactful, high quality work, or create out the box and creating solutions.
+* ***:***
+* ***:***
+
+## `maintainer` role overview
+
+By having the leadership role & responsibilities of the path divided amongst a role, many of the pitfalls of decentralized collaboration can be avoided.
+
+* ***Diffused leadership:*** As there are multiple, contributors can take breaks and work at a sustainable pace, while holding each other accountable they are also checked by their fellow contributors, preventing them from going on power trips.
+* ***Limited politics:*** The execution of the more contentious leadership responsibilities (such as demotions and removals) are codified in the paths governing documents, ensuring little room for power games.
+* ***Publicly verifiable:*** All metrics around contributions needs to be publicly verifiable in order for other contributors to be able to verify the correct functioning of the `maintainer`s.
+
+---
+
+<!-- # Role deep dives -->
+
+<!-- ## `wannabe-contributor` role
 
 This is where all contributors start their journey. This role should be open to anyone. This role acts as a signal of interest: "hey I'd like to do this contribution!".
 
