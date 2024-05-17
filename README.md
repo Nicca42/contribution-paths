@@ -5,13 +5,14 @@ A quick and dirty guide to Contribution Paths.
 
 ## Why?
 
-Managing a large, distributed network of contributors is incredibly challenging, even more so when you need their contributions to be of a decent and consistent quality.
+Managing a large, distributed network of contributors is incredibly challenging, even more so when you need their contributions to be of consistent  and reliable quality.
 
 I've been developing the Contribution Path framework for just over two years now, and have successfully implemented and iterated on it within the Optimism Collective. As such, its high time the framework gets open sourced! Please note that these docs are a draft/WIP.
 
 # Index
 
 1. [What is a Contribution Path?](#what-is-a-contribution-path)
+    1. [TL;DR]()
     1. [Key traits of a Contribution Path](#key-traits-of-a-contribution-path)
     1. [Benefits of a Contribution Path](#benefits-of-a-contribution-path)
 1. [Contribution Path roles overview](#contribution-path-roles-overview)
@@ -20,6 +21,15 @@ I've been developing the Contribution Path framework for just over two years now
     1. [`contributor` role overview](#contributor-role-overview)
     1. [`super-contributor` role overview](#super-contributor-role-overview)
     1. [`maintainer` role overview](#maintainer-role-overview)
+1. [Structured design](#structured-design)
+    1. [Community]()
+    1. [Available tasks & contributions]()
+    1. [Expectations & activity minimums]()
+    1. [Rewards & incentives]()
+    1. [Accountability]()
+
+    1. []()
+
 <!-- 1. [Role deep dives](#role-deep-dives)
     1. [`wannabe-contributor` role](#wannabe-contributor-role)
     1. [`contributor-in-training` role](#contributor-in-training-role)
@@ -28,8 +38,6 @@ I've been developing the Contribution Path framework for just over two years now
     1. [`maintainer` role](#maintainer-role) -->
 
 <!-- 1. []()
-1. []()
-1. []()
 1. []()
 1. []()
 1. []() -->
@@ -53,6 +61,12 @@ The Contribution Path framework works on three levels:
 * ***Bottom up:*** allows contributions to gain context autonomously.
 * ***Top down:*** sorts contributors into groups based on their ability/skill set within the selected contribution type.
 * ***Sustainability:*** Once a path has been fully implemented, the vast majority of maintenance is run by the path members itself, making it ideal for DAOs and other distributed contribution organizations.
+
+# TL;DR
+
+Contribution Paths have two main roles: `contributors` and `maintainers`. The `contributors` are split into four roles, each one containing contributors of higher contextual understanding (they know "how things work") as well as more skillful or talented in the paths contribution type.
+
+The `maintainers` are contributors from any level of `contributor` role who keep the path running by executing 
 
 ## Key traits of a Contribution Path
 
@@ -127,11 +141,39 @@ In combination these successive and maintenance roles enables the paths to be re
 
 By having the leadership role & responsibilities of the path divided amongst a role, many of the pitfalls of decentralized collaboration can be avoided.
 
-* ***Diffused leadership:*** As there are multiple, contributors can take breaks and work at a sustainable pace, while holding each other accountable they are also checked by their fellow contributors, preventing them from going on power trips.
+* ***Diffused leadership:*** As there are multiple contributors with the `maintainer` role, contributors can take breaks and work at a sustainable pace, while holding each other accountable.
 * ***Limited politics:*** The execution of the more contentious leadership responsibilities (such as demotions and removals) are codified in the paths governing documents, ensuring little room for power games.
-* ***Publicly verifiable:*** All metrics around contributions needs to be publicly verifiable in order for other contributors to be able to verify the correct functioning of the `maintainer`s.
+* ***Publicly verifiable:*** All metrics around contributions needs to be publicly verifiable in order for other contributors to be able to verify the correct functioning of the `maintainer`s. Being checked by their fellow contributors also prevents abuse of power.
 
 ---
+
+# Structured design
+
+Contribution Paths require an intentional environment and have incentive requirements. There are many variations you could probably create and still accomplish these requirements, so I will explain the concept with an example implementation.
+
+## Community
+
+One of the key benefits for both contributors and the system as a whole is a collaborative environment, resulting in overall higher quality contributions. To foster collaboration there needs to be a community to collaborate within.
+
+Community events need to be reliably held at a set cadence. They should accommodate chat interactions as well as voice/video interactions. They should be moderated (kicking trolls, its on the internet after all) as well as reliably having contributors with higher context to answer questions & set the cultural vibe.
+
+For example, a twice a week call with at least one path `maintainer` and two `contributors`. The `maintainer` reads the questions from chat as well as facilitating live asks. The two calls are scheduled to cover the average two major timezones of path participants. All `in-training` path participants are highly encouraged to attend live or submit questions in advance and watch the recording. The call is open to anyone in the path.
+
+## Available tasks & contributions
+
+Each successive role will need defined scopes for their contributions. This is a critical step to avoid over eager but low context contributors from causing more harm than good.
+
+`wannabe` contributors need some clearly defined tasks so they can get started, but should also have some scope for more creative or open ended but low context tasks or ideas so talented contributors can show their ability.
+
+`in-training` contributors need opportunities to try out the real thing - smaller versions of `contributor` opportunities are a good way to ensure they will be able to handle the `contributor` role.
+
+The `contributor` role is where the bulk of contributions and responsibilities should be.
+
+## Expectations & activity minimums
+
+## Rewards & incentives
+
+## Accountability
 
 <!-- # Role deep dives -->
 
@@ -151,3 +193,22 @@ Contributions for this role should be well defined, low context and low risk for
 
 It is important that there are sufficient tasks available to keep new contributors engaged. I've found ongoing tasks (monitoring, validating/checking, etc) are better than one and done tasks. Additionally it is critical that no important or irreversible tasks are made available to these "untested" contributors.
 
+### Expectations & activity
+
+### Accountability
+
+### Rewards & incentives
+
+### Community
+
+## `contributor-in-training` role
+
+### Available tasks & contributions
+
+### Expectations & activity
+
+### Accountability
+
+### Rewards & incentives
+
+### Community -->
