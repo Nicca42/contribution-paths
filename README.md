@@ -1,18 +1,12 @@
 
 # Contribution Paths
 
-A quick and dirty guide to Contribution Paths.
-
-## Why?
-
-Managing a large, distributed network of contributors is incredibly challenging, even more so when you need their contributions to be of consistent  and reliable quality.
-
-I've been developing the Contribution Path framework for just over two years now, and have successfully implemented and iterated on it within the Optimism Collective. As such, its high time the framework gets open sourced! Please note that these docs are a draft/WIP.
+A quick and dirty guide to Contribution Paths. Please note that these docs are a draft/WIP.
 
 # Index
 
+1. [TL;DR](#tldr)
 1. [What is a Contribution Path?](#what-is-a-contribution-path)
-    1. [TL;DR]()
     1. [Key traits of a Contribution Path](#key-traits-of-a-contribution-path)
     1. [Benefits of a Contribution Path](#benefits-of-a-contribution-path)
 1. [Contribution Path roles overview](#contribution-path-roles-overview)
@@ -52,6 +46,42 @@ I've been developing the Contribution Path framework for just over two years now
 
 ---
 
+# TL;DR
+
+Contribution Paths are a talent structuring framework that facilitates the growth of a sustainable contributor network, around a specific skill-set or problem-set.
+
+There must be incentives and rewards, and ideally in a self-sustaining way (sustainable value or impact generation). Upfront transparency around dependability and thresholds for qualifying for rewards help set contributor expectations.
+
+Contributors must be given the respect and treated as co-workers. The interactions between the `core team`/`founding members`/`organization` creating the contribution path.
+
+Contribution Paths need to be established collaboratively with contributors. They are a community as much as they are individual contributors. Communities cannot be built, only grown between members. There needs to be thoughtful activity towards building community and networks.
+
+Contribution Paths have two main roles: `contributors` and `maintainers`.
+
+The `contributors` are split into four roles. The first two are for filtering for committed and talented contributors, and the latter two roles to distinguish between average-to-good contributors and the 1% contributors.
+
+Commitment & quality checks
+
+1. `wannabe-contributor` →
+2. `contributor-in-training` →
+
+Contribution powerhouse
+
+3. `contributor` →
+4. `super-contributor`
+
+The `maintainers` are contributors from any level of the `contributor` role who run and maintain the ecosystem of the Contribution Path. The responsibilities of this role are designed in such a way that correct execution of all actions (but especially controversial maintenance actions such as contributor removals or reward distributions) are publicly verifiable.
+
+* `maintainer`
+
+Let's look at an example Contribution Path to tie all these concepts together:
+
+> 
+
+<!-- Path creators will need to be consistently engaged and setting the cultural example. Involved parties from the organization creating the path need to treat contributors seriously, this is an essential cultural cornerstone. Treat contributors as respected co-workers: listen to feedback, respond and evolve with critique and explain decisions or reasoning. Ideally there are also members from the forming organization participating in the path to set quality expectations through example. -->
+
+---
+
 # What is a Contribution Path?
 
 Contribution Paths are a way to get work done by a distributed network of contributors with some level of surety on the quality of contributions. Contribution Paths focus on one kind of contribution, for example, user support or marketing.
@@ -61,12 +91,6 @@ The Contribution Path framework works on three levels:
 * ***Bottom up:*** allows contributions to gain context autonomously.
 * ***Top down:*** sorts contributors into groups based on their ability/skill set within the selected contribution type.
 * ***Sustainability:*** Once a path has been fully implemented, the vast majority of maintenance is run by the path members itself, making it ideal for DAOs and other distributed contribution organizations.
-
-# TL;DR
-
-Contribution Paths have two main roles: `contributors` and `maintainers`. The `contributors` are split into four roles, each one containing contributors of higher contextual understanding (they know "how things work") as well as more skillful or talented in the paths contribution type.
-
-The `maintainers` are contributors from any level of `contributor` role who keep the path running by executing 
 
 ## Key traits of a Contribution Path
 
@@ -212,3 +236,9 @@ It is important that there are sufficient tasks available to keep new contributo
 ### Rewards & incentives
 
 ### Community -->
+
+<!-- ## Why?
+
+Managing a large, distributed network of contributors is incredibly challenging, even more so when you need their contributions to be of consistent and reliable quality.
+
+I've been developing the Contribution Path framework for just over two years now, and have successfully implemented and iterated on it within the Optimism Collective. As such, its high time the framework gets open sourced! -->
