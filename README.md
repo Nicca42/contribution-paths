@@ -2,7 +2,7 @@
 
 A quick and dirty guide to Contribution Paths. Please note that these docs are a draft/WIP.
 
-# Index
+## Index
 
 1. [TL;DR](#tldr)
 1. [What is a Contribution Path?](#what-is-a-contribution-path)
@@ -14,27 +14,12 @@ A quick and dirty guide to Contribution Paths. Please note that these docs are a
    1. [`contributor` role overview](#contributor-role-overview)
    1. [`super-contributor` role overview](#super-contributor-role-overview)
    1. [`maintainer` role overview](#maintainer-role-overview)
-1. [Structured design](#structured-design)
-
-   1. [Community]()
-   1. [Available tasks & contributions]()
-   1. [Expectations & activity minimums]()
-   1. [Rewards & incentives]()
-   1. [Accountability]()
-
-1. [Creating a Contribution Path Checklist]()
-
-<!-- 1. [Role deep dives](#role-deep-dives)
-    1. [`wannabe-contributor` role](#wannabe-contributor-role)
-    1. [`contributor-in-training` role](#contributor-in-training-role)
-    1. [`contributor` role](#contributor-role)
-    1. [`super-contributor` role](#super-contributor-role)
-    1. [`maintainer` role](#maintainer-role) -->
-
-<!-- 1. []()
-1. []()
-1. []()
-1. []() -->
+1. [Creating a Contribution Path Checklist](#creating-a-contribution-path-checklist)
+   1. [Communal environment](#communal-environment)
+   1. [Available tasks & contributions](#available-tasks--contributions)
+   1. [Expectations & activity minimums](#expectations--activity-minimums)
+   1. [Rewards & incentives](#rewards--incentives)
+   1. [Accountability](#accountability)
 
 <!-- 1. Onboarding
 1. Accountability & expectation setting
@@ -76,7 +61,7 @@ The `maintainers` are contributors from any level of the `contributor` role who 
 
 Let's look at an example Contribution Path to tie all these concepts together:
 
->
+> WIP
 
 <!-- Path creators will need to be consistently engaged and setting the cultural example. Involved parties from the organization creating the path need to treat contributors seriously, this is an essential cultural cornerstone. Treat contributors as respected co-workers: listen to feedback, respond and evolve with critique and explain decisions or reasoning. Ideally there are also members from the forming organization participating in the path to set quality expectations through example. -->
 
@@ -171,46 +156,55 @@ By having the leadership role & responsibilities of the path divided amongst a r
 
 ---
 
-## Structured design
-
-Contribution Paths require an intentional environment and have incentive requirements. There are many variations you could probably create and still accomplish these requirements, so I will explain the concept with an example implementation.
-
-### Community
-
-One of the key benefits for both contributors and the system as a whole is a collaborative environment, resulting in overall higher quality contributions. To foster collaboration there needs to be a community to collaborate within.
-
-Community events need to be reliably held at a set cadence. They should accommodate chat interactions as well as voice/video interactions. They should be moderated (kicking trolls, its on the internet after all) as well as reliably having contributors with higher context to answer questions & set the cultural vibe.
-
-For example, a twice a week call with at least one path `maintainer` and two `contributors`. The `maintainer` reads the questions from chat as well as facilitating live asks. The two calls are scheduled to cover the average two major timezones of path participants. All `in-training` path participants are highly encouraged to attend live or submit questions in advance and watch the recording. The call is open to anyone in the path.
-
-### Available tasks & contributions
-
-Each successive role will need defined scopes for their contributions. This is a critical step to avoid over eager but low context contributors from causing more harm than good.
-
-`wannabe` contributors need some clearly defined tasks so they can get started, but should also have some scope for more creative or open ended but low context tasks or ideas so talented contributors can show their ability.
-
-`in-training` contributors need opportunities to try out the real thing - smaller versions of `contributor` opportunities are a good way to ensure they will be able to handle the `contributor` role.
-
-The `contributor` role is where the bulk of contributions and responsibilities should be.
-
-### Expectations & activity minimums
-
-### Rewards & incentives
-
-### Accountability
-
 ## Creating a Contribution Path Checklist
+
+Contribution Paths require an intentional environment and have incentive requirements. There are many variations you could probably create and still accomplish these requirements, so this is more of a starting point/minimum clarity required to get started.
 
 Contributors need to be able to onboard themselves - as such the information required to get started needs to be accessible. If you are targeting multiple languages in your community its highly recommended to get these documents translated. Docs should be written with as little jargon as possible. Avoid "rabbit-linking" - having dozens of out links on a page making it daunting to follow along without reading dozens of pages. If you introduce a concept give a brief explanation rather than out linking - only link to external pages if they are critical to understanding or function.
 
-The following list is intended to set up your path covering the most critical information and common questions. These do not need to be separate documents (they can all be sections in one doc).
+The following sections are intended to set up your path covering the most critical information, structures and common questions. Documents should be stored in one central location (or even in one well sectioned doc) so they are easy to discover and reference. Once a path is established `maintainers` should be able to update docs (with concent/buy-in from the path participants).
 
-- [ ] **_Overview/TL;DR_**: What contribution is this path covering? Why is this work important? What is the scope and goal? The more transparent you can be here the more alignment your path will have.
-- [ ] **_Contributions by role_**: What contributions are available to each role in the path? Giving context as to why certain tasks are only available to full contributors will help prevent low context contributors from wasting their time on tasks out of their range.
-- [ ] **_Activity minimums_**: Having clear and objective measurements for activity minimums is a half of the _keystones_ of the Contribution Path framework. Activity minimums look like: minimum number of messages, number of tickets solved, rating from tickets solved, number of competed tasks, community calls joined, etc. These metrics need to be objective and publicly verifiable. Any quality minimums need to also meet this publicly verifiable criteria, for example: ratings from end users, views or engagement on content, etc. While some of these metrics will not be sybil resistant, you should try balance this with diversity of metric rather than avoiding game-able metrics.
-- [ ] **_Rewards_**: A clear reward & incentive structure. Contributors should be able to gauge how they will be rewarded depending on their engagement. Reward systems do not have to be simple, but they need to be understandable and transparent. Expectations should be clear: is there a guaranteed reward for a certain amount or contributions? Does a specific role come with guarantees? etc. I've found point systems can work quite well, each task is `x points`, every `y period` `z tokens` will be distributed between all points collected in `y period`. Rather under-promise and over deliver here, under-delivering will destroy trust with contributors in a way that is quite difficult to recover from.
+### Communal environment
+
+One of the key benefits for both contributors and the system as a whole is a collaborative environment, resulting in overall higher quality contributions. To foster collaboration there needs to be a community to collaborate within. Community events need to be reliably held at a set cadence. They should accommodate chat interactions as well as voice/video interactions. They should be moderated (kicking trolls, its on the internet after all) as well as reliably having contributors with higher context to answer questions & set the cultural vibe.
+
+For example, a twice a week call with at least one path `maintainer` and two `contributors`. The `maintainer` reads the questions from chat as well as facilitating live asks. The two calls are scheduled to cover the average two major timezones of path participants. All `in-training` path participants are highly encouraged to attend live or submit questions in advance and watch the recording. The call is open to anyone in the path.
+
+- [ ] **_Community calls_**: Depending on the size of your community these can be any frequency from twice a week to monthly. Calls should not be less frequent than monthly. If your community is large and you need to have multiple calls in a week to cover timezones extra attention should be paid to keeping content between calls consistent (contributors should not miss important info or updates because they only joined one of the calls).
+- [ ] **_Community chats_**: Contributors should have private channel(s) to discuss contributions and bond as a community. Recommend to have one channel for `contributors` and `super-contributors` and another for everyone in the path.
+- [ ] **_Mentorship_**: New members coming into the path will need guidance and want to meet other contributors. Mentorship allows for new members to feel belonging, while also fostering culture integration and a shared understanding of expectations. When starting a path from scratch, path creators will need to cover mentorship until the `contributors` have a solid grasp on expectations and culture. From that point `maintainers` can assign `contributors` to mentor new members.
+- [ ] **_IRL meetups_**: OPTIONAL - IRL meetups only work (well) in distributed, established and large paths, and are not compulsory for paths. IRL events carry significant risk, especially if the contributors are organizing the events themselves. Additional guidelines should be created to set expectations (location guidelines - no events in someones basement, budget guidelines - no rewards or incentives should be provided initially, proof of event - checks that events did happen, especial if there are rewards/refunds for event runners).
+
+### Available tasks & contributions
+
+Each successive role will need defined scopes for their contributions. This is a critical step to avoid over eager but low context contributors from causing more harm than good. `wannabe` contributors need clearly defined tasks so they can get started, but should also have some scope for more creative or open ended but low context tasks so talented contributors can show their ability. `in-training` contributors need opportunities to try out the real thing - smaller versions of `contributor` opportunities are a good way to ensure they will be able to handle the `contributor` role. The `contributor` role is where the bulk of contributions and responsibilities should be.
+
+- [ ] **_Overview/TL;DR_**: If a contributor ONLY read this section, they should understand what the path is focused on, how to start and why they should get involved. What contribution is this path covering? Why is this work important? What is the scope and goal? The more transparent you can be here the more alignment your path will have. Being clear and upfront about rewards will also build trust and set expectations early on.
+- [ ] **_Contributions by role_**: What contributions are available to each role in the path? Giving context as to why certain tasks are only available to full contributors will help prevent low context contributors from wasting their time on tasks out of their range. If you will also offer bounties and or once off tasks, it can be useful to mention that the exist.
+- [ ] **_Example contributions_**: OPTIONAL - Having a document or section that highlights high quality contributions helps set and maintain quality minimums. It also is a way to give recognition to talented `contributors`, highlighting their best work.
+
+### Expectations & activity minimums
+
+Clearly set expectations and clearly defined accountability are, in combination, the keystone that makes Contribution Paths work. These metrics need to be objective and publicly verifiable. There also need to be structures for non-`maintainers` to be able to challenge the `maintainers` tracking.
+
+- [ ] **_Activity minimums_**: Have clear and objective measurements for activity minimums. Activity minimums look like: minimum number of messages, number of tickets solved, rating from tickets solved, number of competed tasks, community calls joined, etc. Any quality minimums need to also meet this publicly verifiable criteria, for example: ratings from end users, views or engagement on content, etc. While some of these metrics will not be sybil resistant, you should try balance this with diversity of metric rather than avoiding game-able metrics.
+
+### Rewards & incentives
+
+Reward systems do not have to be simple, but they need to be understandable and transparent. Rather under-promise and over deliver here, under-delivering will destroy trust with contributors in a way that is quite difficult to recover from.
+
+- [ ] **_Rewards_**: A clear reward & incentive structure. Contributors should be able to gauge how they will be rewarded depending on their engagement.  Expectations should be clear: is there a guaranteed reward for a certain amount or contributions? Does a specific role come with guarantees? etc.
+
+Point systems can work quite well, i.e: each task is `x points`, every `y period` `z tokens` will be distributed between all points collected in `y period`.
+
+### Accountability
+
+Clearly defined consequences for not meeting minimums, as well as transparent rewards for meeting or exceeding minimums are essential. These should be introduced to contributors early in their onboarding to prevent mismatched expectations. These standards create transparent standards that contributors agree to when joining the path. Getting them to sign a TX/make an attestation in agreement can be a helpful signal.
+
 - [ ] **_Code of Conduct_**: Paths need to have code of conducts for those who don't know how to treat others with kindness. This can be an extension of existing code of conducts, but should additionally cover mentorship behavior expectations, reporting of violations and the accountability for violation. This should really only be covering "being a dick": bulling, harassment, discrimination, DOXXing, etc.
-- [ ] **_Accountability_**: If a contributor fails to meet their roles activity minimum, what happens? Are they demoted or removed? How long do they need to miss the minimum? How can they signal leave/holidays vs going MIA? Combined with the Activity minimums we have the _keystone_ for Contribution Paths. These standards create transparent standards that contributors can agree to.
+- [ ] **_Accountability_**: If a contributor fails to meet their roles activity minimum, what happens? Are they demoted or removed? How long do they need to miss the minimum? How can they signal leave/holidays vs going MIA? Combined with the Activity minimums we have the _keystone_ for Contribution Paths.
+
+There should also be clearly defined ways to let `maintainers` know when contributors are taking leave and clear policies around this. For example, `contributors` who have signaled they are taking leave will not get removed from their role during this period, but will not collect points during this time. It's best not to limit how much leave contributors can take, just ensure they do not collect rewards without actively participating. Signaling leave is important to be able to distinguish between contributors who have disengaged or gone MIA vs those who just have a life.
 
 <!-- # Role deep dives -->
 
