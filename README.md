@@ -21,19 +21,11 @@ A quick and dirty guide to Contribution Paths. Please note that these docs are a
    1. [Rewards & incentives](#rewards--incentives)
    1. [Accountability](#accountability)
 
-<!-- 1. Onboarding
-1. Accountability & expectation setting
-1. Rewards & incentives
-1. Rolling out a Path checklist
-    1. Considerations when starting from scratch
-    1. Considerations when starting in an existing contributor network
-1. Notes & considerations -->
-
 ---
 
 ## TL;DR
 
-Contribution Paths are a talent structuring framework that facilitates the growth of a sustainable contributor network, around a specific skill-set or problem-set.
+Contribution Paths are a talent structuring framework that facilitates the growth & maintenance of a sustainable contributor network, around a specific skill-set or problem-set. Contribution Paths work best when they are used to create and maintain infrastructure rather than providing a service, but it can accommodate both.
 
 There must be incentives and rewards, and ideally in a self-sustaining way (sustainable value or impact generation). Upfront transparency around dependability and thresholds for qualifying for rewards help set contributor expectations.
 
@@ -61,7 +53,21 @@ The `maintainers` are contributors from any level of the `contributor` role who 
 
 Let's look at an example Contribution Path to tie all these concepts together:
 
-> WIP
+> **A Contribution Path to run an applications' user support - service.**
+>
+> **Background:**
+>Lets say we have an onchain DeFi application. It allows users to do swaps and over-collateralized lending/borrowing. They have a few million in TVL, and a Discord with 50k "people" (there area always bots/multiple account farmers, etc). In their Discord they get between 15 and 40 questions a day from users. The project had hired 3 moderators-as-a-service costing $240 - $450 a week[1](https://blog.communityone.io/average-discord-mod-pricing-guide/#what-is-the-average-cost-of-a-discord-mod). However, the project has grown frustrated by their lack of crypto understanding, and wants to try decentralize the role, so they start a Contribution Path for it!
+>
+> **Getting started:**
+> The Community Manager will spend 2-4 weeks observing their community. Who are the folks talking daily? Who engaged when someone has a question? Is anyone answering questions already? The Community Manager will message individuals who are engaging, and ask them if they would be interested to join the upcoming Contribution Path, and give them the `wannabe-contributor` role.
+> While observing the existing community, the Contribution Path will need to be designed. The scope set, required supporting documentation created, budgeting and a distribution strategy, legal sign off, etc. The sooner the documentation can be shared with potential contributors the better.
+> The purpose of this high touch and high engagement period is to find the best fit contributors available. This initial group will set the culture of contributors going forward, so it is essential this step is completed intentionally and not rushed.
+> Once the documentation is completed and shared with the community, a Discord channel is set up that allows anyone to get the `wannabe-contributor` role, and begin completing `wannabe` level tasks. Contributors should be closely observed. The community manager will need to act as the initial mentor, providing feedback on contributions, engaging daily, hosting calls, etc. In larger communities it may not make sense to start with the role open given the capacity of the team. Instead, the path can be closed to new `wannabes`, limiting the initial pool to the curated community members. Once the first group of `contributors` is established, the path can then be opened.
+> To select the contributors that move to `in-training` the Community Manager runs interviews. These can be as short as 15 minutes, and should be a vibe check (the contributor is not a dick and not a bot) and context setting (this is what the path will do, this is how rewards work, this is the quality expectation).
+
+
+* Creating educational content for a cause - service &/ infrastructure, depending on how its structured.
+* Create databases and indexes of data
 
 <!-- Path creators will need to be consistently engaged and setting the cultural example. Involved parties from the organization creating the path need to treat contributors seriously, this is an essential cultural cornerstone. Treat contributors as respected co-workers: listen to feedback, respond and evolve with critique and explain decisions or reasoning. Ideally there are also members from the forming organization participating in the path to set quality expectations through example. -->
 
@@ -206,9 +212,11 @@ Clearly defined consequences for not meeting minimums, as well as transparent re
 
 There should also be clearly defined ways to let `maintainers` know when contributors are taking leave and clear policies around this. For example, `contributors` who have signaled they are taking leave will not get removed from their role during this period, but will not collect points during this time. It's best not to limit how much leave contributors can take, just ensure they do not collect rewards without actively participating. Signaling leave is important to be able to distinguish between contributors who have disengaged or gone MIA vs those who just have a life.
 
-<!-- # Role deep dives -->
+<!-- 
 
-<!-- ## `wannabe-contributor` role
+# Role deep dives
+
+## `wannabe-contributor` role
 
 This is where all contributors start their journey. This role should be open to anyone. This role acts as a signal of interest: "hey I'd like to do this contribution!".
 
@@ -242,10 +250,19 @@ It is important that there are sufficient tasks available to keep new contributo
 
 ### Rewards & incentives
 
-### Community -->
+### Community 
 
-<!-- ## Why?
+## Why?
 
 Managing a large, distributed network of contributors is incredibly challenging, even more so when you need their contributions to be of consistent and reliable quality.
 
-I've been developing the Contribution Path framework for just over two years now, and have successfully implemented and iterated on it within the Optimism Collective. As such, its high time the framework gets open sourced! -->
+I've been developing the Contribution Path framework for just over two years now, and have successfully implemented and iterated on it within the Optimism Collective. As such, its high time the framework gets open sourced! 
+
+1. Onboarding
+1. Accountability & expectation setting
+1. Rewards & incentives
+1. Rolling out a Path checklist
+    1. Considerations when starting from scratch
+    1. Considerations when starting in an existing contributor network
+1. Notes & considerations
+-->
