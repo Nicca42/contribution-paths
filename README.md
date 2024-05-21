@@ -53,21 +53,47 @@ The `maintainers` are contributors from any level of the `contributor` role who 
 
 Let's look at an example Contribution Path to tie all these concepts together:
 
-> **A Contribution Path to run an applications' user support - service.**
+> **A Contribution Path to run an applications' user support.**
 >
 > **Background:**
->Lets say we have an onchain DeFi application. It allows users to do swaps and over-collateralized lending/borrowing. They have a few million in TVL, and a Discord with 50k "people" (there area always bots/multiple account farmers, etc). In their Discord they get between 15 and 40 questions a day from users. The project had hired 3 moderators-as-a-service costing $240 - $450 a week[1](https://blog.communityone.io/average-discord-mod-pricing-guide/#what-is-the-average-cost-of-a-discord-mod). However, the project has grown frustrated by their lack of crypto understanding, and wants to try decentralize the role, so they start a Contribution Path for it!
+>Lets say we have an onchain DeFi application. It allows users to do swaps and over-collateralized lending/borrowing. They have a few million in TVL, and a Discord with 50k "people" (there area always bots/multiple account farmers, etc). 
+> In their Discord they get between 15 and 40 questions a day from users. The project had hired 3 moderators-as-a-service costing 240 USD - 450 USD a week[$^1$](https://blog.communityone.io/average-discord-mod-pricing-guide/#what-is-the-average-cost-of-a-discord-mod). However, the project has grown frustrated by their lack of crypto understanding, and wants to try decentralize the role, so they start a Contribution Path for it!
+> For the sake of simplicity we will not give these contributors a name, however the branding of a Contribution Path can go far! For example, in the Optimism ecosystem our technical support contributors are called techNERDs. The role names are updated accordingly, `wannabe-techNERD`, `techNERD-in-training` etc.
+>
+> **Prep work:**
+>
+> - The Community Manager will spend 2-4 weeks observing & engaging with their community.
+>   - Who are the folks talking daily?
+>   - Who engaged when someone has a question?
+>   - Is anyone answering questions already? How accurate are their answers?
+>   - The Community Manager will message individuals who are engaging, and ask them if they would be interested to join the upcoming Contribution Path, and give them the `wannabe-contributor` role.
+> - While observing the existing community, the Contribution Path will need to be designed. The scope set, required supporting documentation created, budgeting and a distribution strategy, legal sign off, etc. The sooner the documentation can be shared with potential contributors the better.
+>   - *Scope:* For our path the scope will be restricted to user support. Contributors will be expected to report any suspected bugs, but do not need to try solve them. They will also help review and create guide documentation/FAQs. They will also be able to complete moderator actions under certain circumstances (deleting spam/scam messages, temp-banning users, removing scammers, etc).
+>   - *Code of Conduct:* Contributors are expected to treat users with kindness & understanding.
+>   - *Activity minimums:* Contributors need to get at least 20 contribution points per week, and half of those need to come from user tickets.
+>     - To really get into the details on this example: contributors get 1 points from having at least 120 messages in the server a week. Max 5 points per user ticket scaled by the rating from the user (1 star = 1 point).  
+>   - *Rewards:* 12,000 - 23,000 USD gets distributed every quarter. The distribution is calculated from the total number of points earned during that period (for example, 3 contributors earning 20 points a week is ~720 points, so 12,000/720 = ~$16 per point). 
+>     - You can also set a minimum number of points (below which the total amount changes) or maximum number of contributors. For our small community of 50k people, it probably does not make sense to have more than 3/4 full time contributors or 6/7 part time.
+>     - If in practice certain tasks are getting farmed for points, you can adjust the number of points or remove the task entirely. Ensure that contributors are given a heads up and explain your reasoning to create buy-in on the change.
+>
+> The purpose of this high touch and high engagement period is to find the best fit contributors available. This initial group will set the culture of contributors going forward, so it is essential this step is completed intentionally and not rushed.
 >
 > **Getting started:**
-> The Community Manager will spend 2-4 weeks observing their community. Who are the folks talking daily? Who engaged when someone has a question? Is anyone answering questions already? The Community Manager will message individuals who are engaging, and ask them if they would be interested to join the upcoming Contribution Path, and give them the `wannabe-contributor` role.
-> While observing the existing community, the Contribution Path will need to be designed. The scope set, required supporting documentation created, budgeting and a distribution strategy, legal sign off, etc. The sooner the documentation can be shared with potential contributors the better.
-> The purpose of this high touch and high engagement period is to find the best fit contributors available. This initial group will set the culture of contributors going forward, so it is essential this step is completed intentionally and not rushed.
-> Once the documentation is completed and shared with the community, a Discord channel is set up that allows anyone to get the `wannabe-contributor` role, and begin completing `wannabe` level tasks. Contributors should be closely observed. The community manager will need to act as the initial mentor, providing feedback on contributions, engaging daily, hosting calls, etc. In larger communities it may not make sense to start with the role open given the capacity of the team. Instead, the path can be closed to new `wannabes`, limiting the initial pool to the curated community members. Once the first group of `contributors` is established, the path can then be opened.
-> To select the contributors that move to `in-training` the Community Manager runs interviews. These can be as short as 15 minutes, and should be a vibe check (the contributor is not a dick and not a bot) and context setting (this is what the path will do, this is how rewards work, this is the quality expectation).
+>
+> - Once the documentation is completed and shared with the community, a Discord channel is set up that allows anyone to get the `wannabe-contributor` role, and begin completing `wannabe` level tasks. Contributors should be closely observed.
+>   - The community manager will need to act as the initial mentor, providing feedback on contributions, engaging daily, hosting calls, etc.
+>   - In larger communities it may not make sense to start with the role open given the mentorship capacity of the team. Instead, the path can be closed to new `wannabes`, limiting the initial pool to the curated community members. Once the first group of `contributors` is established, the path can then be opened.
+> - To select the contributors that move to `in-training` the Community Manager runs interviews. These can be as short as 15 minutes, and should be a vibe check (the contributor is not a dick and not a bot) and context setting (this is what the path will do, this is how rewards work, this is the quality expectation).
+>
+> **First contributions:**
+>
+> Once there are contributors with the `in-training` role, the path starts to function. While these contributors are in training it is esential that the initial mentors (Contribution Manager or other team members) are monitoring their engagment.
+>
+> - How are they answering questions? Are they providing links
 
 
-* Creating educational content for a cause - service &/ infrastructure, depending on how its structured.
-* Create databases and indexes of data
+- Creating educational content for a cause - service &/ infrastructure, depending on how its structured.
+- Create databases and indexes of data
 
 <!-- Path creators will need to be consistently engaged and setting the cultural example. Involved parties from the organization creating the path need to treat contributors seriously, this is an essential cultural cornerstone. Treat contributors as respected co-workers: listen to feedback, respond and evolve with critique and explain decisions or reasoning. Ideally there are also members from the forming organization participating in the path to set quality expectations through example. -->
 
