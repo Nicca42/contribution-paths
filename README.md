@@ -67,49 +67,68 @@ The `maintainers` are contributors from any level of the `contributor` role who 
 
 Let's look at an example Contribution Path to tie all these concepts together:
 
-> **A Contribution Path to run an applications' user support.**
->
-> **Background:**
->Lets say we have an onchain DeFi application. It allows users to do swaps and over-collateralized lending/borrowing. They have a few million in TVL, and a Discord with 50k "people" (there area always bots/multiple account farmers, etc). 
-> In their Discord they get between 15 and 40 questions a day from users. The project had hired 3 moderators-as-a-service costing 240 USD - 450 USD a week[$^1$](https://blog.communityone.io/average-discord-mod-pricing-guide/#what-is-the-average-cost-of-a-discord-mod). However, the project has grown frustrated by their lack of crypto understanding, and wants to try decentralize the role, so they start a Contribution Path for it!
-> For the sake of simplicity we will not give these contributors a name, however the branding of a Contribution Path can go far! For example, in the Optimism ecosystem our technical support contributors are called techNERDs. The role names are updated accordingly, `wannabe-techNERD`, `techNERD-in-training` etc.
->
-> **Prep work:**
->
-> - The Community Manager will spend 2-4 weeks observing & engaging with their community.
->   - Who are the folks talking daily?
->   - Who engaged when someone has a question?
->   - Is anyone answering questions already? How accurate are their answers?
->   - The Community Manager will message individuals who are engaging, and ask them if they would be interested to join the upcoming Contribution Path, and give them the `wannabe-contributor` role.
-> - While observing the existing community, the Contribution Path will need to be designed. The scope set, required supporting documentation created, budgeting and a distribution strategy, legal sign off, etc. The sooner the documentation can be shared with potential contributors the better.
->   - *Scope:* For our path the scope will be restricted to user support. Contributors will be expected to report any suspected bugs, but do not need to try solve them. They will also help review and create guide documentation/FAQs. They will also be able to complete moderator actions under certain circumstances (deleting spam/scam messages, temp-banning users, removing scammers, etc).
->   - *Code of Conduct:* Contributors are expected to treat users with kindness & understanding.
->   - *Activity minimums:* Contributors need to get at least 20 contribution points per week, and half of those need to come from user tickets.
->     - To really get into the details on this example: contributors get 1 points from having at least 120 messages in the server a week. Max 5 points per user ticket scaled by the rating from the user (1 star = 1 point).  
->   - *Rewards:* 12,000 - 23,000 USD gets distributed every quarter. The distribution is calculated from the total number of points earned during that period (for example, 3 contributors earning 20 points a week is ~720 points, so 12,000/720 = ~$16 per point). 
->     - You can also set a minimum number of points (below which the total amount changes) or maximum number of contributors. For our small community of 50k people, it probably does not make sense to have more than 3/4 full time contributors or 6/7 part time.
->     - If in practice certain tasks are getting farmed for points, you can adjust the number of points or remove the task entirely. Ensure that contributors are given a heads up and explain your reasoning to create buy-in on the change.
->
-> The purpose of this high touch and high engagement period is to find the best fit contributors available. This initial group will set the culture of contributors going forward, so it is essential this step is completed intentionally and not rushed.
->
-> **Getting started:**
->
-> - Once the documentation is completed and shared with the community, a Discord channel is set up that allows anyone to get the `wannabe-contributor` role, and begin completing `wannabe` level tasks. Contributors should be closely observed.
->   - The community manager will need to act as the initial mentor, providing feedback on contributions, engaging daily, hosting calls, etc.
->   - In larger communities it may not make sense to start with the role open given the mentorship capacity of the team. Instead, the path can be closed to new `wannabes`, limiting the initial pool to the curated community members. Once the first group of `contributors` is established, the path can then be opened.
-> - To select the contributors that move to `in-training` the Community Manager runs interviews. These can be as short as 15 minutes, and should be a vibe check (the contributor is not a dick and not a bot) and context setting (this is what the path will do, this is how rewards work, this is the quality expectation).
->
-> **First contributions:**
->
-> Once there are contributors with the `in-training` role, the path starts to function. While these contributors are in training it is esential that the initial mentors (Contribution Manager or other team members) are monitoring their engagment.
->
-> - How are they answering questions? Are they providing links
+<details>
+   <summary>
+      Established Contribution Path - new contributor journey
+   </summary>
 
+   WIP
+</details>
 
-- Creating educational content for a cause - service &/ infrastructure, depending on how its structured.
-- Create databases and indexes of data
+<details>
+   <summary>
+      New Contribution Path - establishing a path
+   </summary>
 
-<!-- Path creators will need to be consistently engaged and setting the cultural example. Involved parties from the organization creating the path need to treat contributors seriously, this is an essential cultural cornerstone. Treat contributors as respected co-workers: listen to feedback, respond and evolve with critique and explain decisions or reasoning. Ideally there are also members from the forming organization participating in the path to set quality expectations through example. -->
+   ### In this example we will create at a Contribution Path to run an applications' user support
+
+   #### Background:
+
+   Lets say we have an onchain DeFi application. It allows users to do swaps and over-collateralized lending/borrowing. They have a few million in TVL, and a Discord with 50k "people" (there area always bots/multiple account farmers, etc).
+
+   In their Discord they get between 15 and 40 questions a day from users. The project had hired 3 moderators-as-a-service costing 240 USD - 450 USD a week[$^1$](https://blog.communityone.io/average-discord-mod-pricing-guide/#what-is-the-average-cost-of-a-discord-mod). However, the project has grown frustrated by their lack of crypto understanding, and wants to try decentralize the role, so they start a Contribution Path for it!
+
+   For the sake of simplicity we will not give these contributors a name, however the branding of a Contribution Path can go far! For example, in the Optimism ecosystem our technical support contributors are called techNERDs. The role names are updated accordingly, `wannabe-techNERD`, `techNERD-in-training` etc.
+
+   #### Prep work:
+
+* The Community Manager will spend 2-4 weeks observing & engaging with their community.
+   * Who are the folks talking daily?
+   * Who engaged when someone has a question?
+   * Is anyone answering questions already? How accurate are their answers?
+* The Community Manager will message individuals who are engaging, and ask them if they would be interested to join the upcoming Contribution Path, and give them the `wannabe-contributor` role.
+* While observing the existing community, the Contribution Path will need to be designed. The scope set, required supporting documentation created, budgeting and a distribution strategy, legal sign off, etc. The sooner the documentation can be shared with potential contributors the better.
+   * _Scope:_ For our path the scope will be restricted to user support. Contributors will be expected to report any suspected bugs, but do not need to try solve them. They will also help review and create guide documentation/FAQs. They will also be able to complete moderator actions under certain circumstances (deleting spam/scam messages, temp-banning users, removing scammers, etc).
+   * _Code of Conduct:_ Contributors are expected to treat users with kindness & understanding.
+   * _Activity minimums:_ Contributors need to get at least 20 contribution points per week, and half of those need to come from user tickets.
+   * To really get into the details on this example: contributors get 1 points from having at least 120 messages in the server a week. Max 5 points per user ticket scaled by the rating from the user (1 star = 1 point).  
+    * _Rewards:_ 12,000 - 23,000 USD gets distributed every quarter. The distribution is calculated from the total number of points earned during that period (for example, 3 contributors earning 20 points a week is ~720 points, so 12,000/720 = ~$16 per point).
+      * You can also set a minimum number of points (below which the total amount changes) or maximum number of contributors. For our small community of 50k people, it probably does not make sense to have more than 3/4 full time contributors or 6/7 part time.
+      * If in practice certain tasks are getting farmed for points, you can adjust the number of points or remove the task entirely. Ensure that contributors are given a heads up and explain your reasoning to create buy-in on the change.
+
+The purpose of this high touch and high engagement period is to find the best fit contributors available. This initial group will set the culture of contributors going forward, so it is essential this step is completed intentionally and not rushed.
+
+#### Getting started:
+
+* Once the documentation is completed and shared with the community, a Discord channel is set up that allows anyone to get the `wannabe-contributor` role, and begin completing `wannabe` level tasks. Contributors should be closely observed.
+   * The community manager will need to act as the initial mentor, providing feedback on contributions, engaging daily, hosting calls, etc.
+   * In larger communities it may not make sense to start with the role open given the mentorship capacity of the team. Instead, the path can be closed to new `wannabes`, limiting the initial pool to the curated community members. Once the first group of `contributors` is established, the path can then be opened.
+   * To select the contributors that move to `in-training` the Community Manager runs interviews. These can be as short as 15 minutes, and should be a vibe check (the contributor is not a dick and not a bot) and context setting (this is what the path will do, this is how rewards work, this is the quality expectation).
+
+#### First contributions:
+
+Once there are contributors with the `in-training` role, the path starts to function. While these contributors are in training it is essential that the initial mentors (Contribution Manager or other team members) are monitoring their engagement.
+
+* How are they answering questions? Are they providing links
+
+</details>
+
+<!--
+
+ * Creating educational content for a cause - service &/ infrastructure, depending on how its structured.
+ * Create databases and indexes of data
+
+ Path creators will need to be consistently engaged and setting the cultural example. Involved parties from the organization creating the path need to treat contributors seriously, this is an essential cultural cornerstone. Treat contributors as respected co-workers: listen to feedback, respond and evolve with critique and explain decisions or reasoning. Ideally there are also members from the forming organization participating in the path to set quality expectations through example. -->
 
 ---
 
@@ -119,35 +138,35 @@ Contribution Paths are a way to get work done by a distributed network of contri
 
 The Contribution Path framework works on three levels:
 
-- **_Bottom up:_** allows contributions to gain context autonomously.
-- **_Top down:_** sorts contributors into groups based on their ability/skill set within the selected contribution type.
-- **_Sustainability:_** Once a path has been fully implemented, the vast majority of maintenance is run by the path members itself, making it ideal for DAOs and other distributed contribution organizations.
+* **_Bottom up:_** allows contributions to gain context autonomously.
+* **_Top down:_** sorts contributors into groups based on their ability/skill set within the selected contribution type.
+* **_Sustainability:_** Once a path has been fully implemented, the vast majority of maintenance is run by the path members itself, making it ideal for DAOs and other distributed contribution organizations.
 
 ### Key traits of a Contribution Path
 
-- Clearly defined roles and requirements for role progression.
-- Permissionless access to required context (ideally all the context needed for the whole path). Effectively having really good documentation around the contribution.
-- Explicit tasks & opportunities for contributions for each role.
-- Clearly defined expectations for engagement, activity minimums and contribution quality.
-- Realistic but firm consequences for violating expectations (i.e if you are inactive for 2 weeks you will move down a role, if you send a scam link you get banned, etc).
-- Fair rewards for contributors in various roles, ideally with additional incentives for contributors who go above and beyond.
-- Strong community element around contributions (mentorship, collaboration, events & communication surface area).
+* Clearly defined roles and requirements for role progression.
+* Permissionless access to required context (ideally all the context needed for the whole path). Effectively having really good documentation around the contribution.
+* Explicit tasks & opportunities for contributions for each role.
+* Clearly defined expectations for engagement, activity minimums and contribution quality.
+* Realistic but firm consequences for violating expectations (i.e if you are inactive for 2 weeks you will move down a role, if you send a scam link you get banned, etc).
+* Fair rewards for contributors in various roles, ideally with additional incentives for contributors who go above and beyond.
+* Strong community element around contributions (mentorship, collaboration, events & communication surface area).
 
 ### Benefits of a Contribution Path
 
 #### For you
 
-- **_Reliable contributors:_** Paths create skill or talent based groups of contributors that one can reasonably rely on for consistent output.
-- **_Independent:_** Established paths maintain their own admin, run their own progression programs and facilitate their own coordination. In theory, they could manage their own rewards, however the incentives for quality would need to remain external.
+* **_Reliable contributors:_** Paths create skill or talent based groups of contributors that one can reasonably rely on for consistent output.
+* **_Independent:_** Established paths maintain their own admin, run their own progression programs and facilitate their own coordination. In theory, they could manage their own rewards, however the incentives for quality would need to remain external.
 
 #### For contributors
 
 Contribution Paths have the following benefits for contributors:
 
-- **_Accessibility:_** Enabling community members to onboard themselves through structured and intentional documentation can actually reduce support loads as individuals outside of the path can help themselves.
-- **_Flexibility:_** The Contribution Path framework is flexible enough to cover a wide variety of contribution types, making it easier to decentralize more responsibility into your community.
-- **_Clear expectations:_** Clearly defined roles and expectations reduce a lot of the human friction and politics that can arise when contributing in a decentralized system.
-- **_Churn resilience:_** Through the use of the `maintainer` role, Contribution Paths are relatively resilient to contributor churn, making them more sustainable over longer time horizons.
+* **_Accessibility:_** Enabling community members to onboard themselves through structured and intentional documentation can actually reduce support loads as individuals outside of the path can help themselves.
+* **_Flexibility:_** The Contribution Path framework is flexible enough to cover a wide variety of contribution types, making it easier to decentralize more responsibility into your community.
+* **_Clear expectations:_** Clearly defined roles and expectations reduce a lot of the human friction and politics that can arise when contributing in a decentralized system.
+* **_Churn resilience:_** Through the use of the `maintainer` role, Contribution Paths are relatively resilient to contributor churn, making them more sustainable over longer time horizons.
 
 ## Contribution Path roles overview
 
@@ -165,40 +184,40 @@ In combination these successive and maintenance roles enables the paths to be re
 
 ### `wannabe-contributor` role overview
 
-- **_Context exposure:_** What path specific context is there that this contribution may require? For example, user supporters would need to understand how a product worked.
-- **_Expectation setting:_** What does it mean to be a part of this path, what is expected from me in the various roles?
-- **_Contributor culture exposure:_** How do I get involved in contributing? What does a good vs bad contribution look like?
-- **_Bot, spammer & promoter filtering:_** The sooner this is done the better, but in this stage it is constant monitoring.
-- **_Commitment assessment:_** A set amount of time a contributor must stay at this level regardless of skill or talent. Usually 3 months. This ensures that contributors are "in it for the long haul" and are able to consistently engage.
-- **_Contribution quality assessment:_** This role has a limited number of low context tasks that contributors are able to participate in or complete, allowing them to showcase their ability.
+* **_Context exposure:_** What path specific context is there that this contribution may require? For example, user supporters would need to understand how a product worked.
+* **_Expectation setting:_** What does it mean to be a part of this path, what is expected from me in the various roles?
+* **_Contributor culture exposure:_** How do I get involved in contributing? What does a good vs bad contribution look like?
+* **_Bot, spammer & promoter filtering:_** The sooner this is done the better, but in this stage it is constant monitoring.
+* **_Commitment assessment:_** A set amount of time a contributor must stay at this level regardless of skill or talent. Usually 3 months. This ensures that contributors are "in it for the long haul" and are able to consistently engage.
+* **_Contribution quality assessment:_** This role has a limited number of low context tasks that contributors are able to participate in or complete, allowing them to showcase their ability.
 
 ### `contributor-in-training` role overview
 
-- **_Mentorship for skills & quality:_** How do things get done, and what is the expectation for contributions? Each `in-training` contributor is assigned a mentor from the existing `contributor` role. This mentor will guide them through the contribution process, and guide them through contributing work that meets (and hopefully exceeds) quality minimums.
-- **_Mentorship for culture:_** Who can I ask about x? Culture mentors facilitate introductions into the contributor community. Like skill mentors, are assigned to mew `in-training` contributors by the `maintainer`s. Having both creates some accountability, and gives the new contributor more high contact touch points with the contributor community.
-- **_Commitment assessment:_** A set amount of time a contributor must stay at this level regardless of skill or talent. Usually 2 months. This ensures that contributors are "in it for the long haul" and are able to consistently engage.
-- **_Contribution quality assessment:_** This role has a limited number of higher context and skill requiring tasks that contributors are able to participate in or complete, allowing them to showcase their ability.
+* **_Mentorship for skills & quality:_** How do things get done, and what is the expectation for contributions? Each `in-training` contributor is assigned a mentor from the existing `contributor` role. This mentor will guide them through the contribution process, and guide them through contributing work that meets (and hopefully exceeds) quality minimums.
+* **_Mentorship for culture:_** Who can I ask about x? Culture mentors facilitate introductions into the contributor community. Like skill mentors, are assigned to mew `in-training` contributors by the `maintainer`s. Having both creates some accountability, and gives the new contributor more high contact touch points with the contributor community.
+* **_Commitment assessment:_** A set amount of time a contributor must stay at this level regardless of skill or talent. Usually 2 months. This ensures that contributors are "in it for the long haul" and are able to consistently engage.
+* **_Contribution quality assessment:_** This role has a limited number of higher context and skill requiring tasks that contributors are able to participate in or complete, allowing them to showcase their ability.
 
 ### `contributor` role overview
 
-- **_Execution engine:_** `contributor`s are the powerhouse of Contribution Paths, and are were most of the high quality contributions will be done.
-- **_Mentorship & up-skilling:_**
-- **_:_**
-- **_:_**
+* **_Execution engine:_** `contributor`s are the powerhouse of Contribution Paths, and are were most of the high quality contributions will be done.
+* **_Mentorship & up-skilling:_**
+* **_:_**
+* **_:_**
 
 ### `super-contributor` role overview
 
-- **_High performers:_** This role contains only the highest performing contributors. They should have a high contextual understanding and well as incredible talent or skill in the given contribution type. They can be reliably trusted to contribute impactful, high quality work, or create out the box and creating solutions.
-- **_:_**
-- **_:_**
+* **_High performers:_** This role contains only the highest performing contributors. They should have a high contextual understanding and well as incredible talent or skill in the given contribution type. They can be reliably trusted to contribute impactful, high quality work, or create out the box and creating solutions.
+* **_:_**
+* **_:_**
 
 ### `maintainer` role overview
 
 By having the leadership role & responsibilities of the path divided amongst a role, many of the pitfalls of decentralized collaboration can be avoided.
 
-- **_Diffused leadership:_** As there are multiple contributors with the `maintainer` role, contributors can take breaks and work at a sustainable pace, while holding each other accountable.
-- **_Limited politics:_** The execution of the more contentious leadership responsibilities (such as demotions and removals) are codified in the paths governing documents, ensuring little room for power games.
-- **_Publicly verifiable:_** All metrics around contributions needs to be publicly verifiable in order for other contributors to be able to verify the correct functioning of the `maintainer`s. Being checked by their fellow contributors also prevents abuse of power.
+* **_Diffused leadership:_** As there are multiple contributors with the `maintainer` role, contributors can take breaks and work at a sustainable pace, while holding each other accountable.
+* **_Limited politics:_** The execution of the more contentious leadership responsibilities (such as demotions and removals) are codified in the paths governing documents, ensuring little room for power games.
+* **_Publicly verifiable:_** All metrics around contributions needs to be publicly verifiable in order for other contributors to be able to verify the correct functioning of the `maintainer`s. Being checked by their fellow contributors also prevents abuse of power.
 
 ---
 
@@ -216,30 +235,30 @@ One of the key benefits for both contributors and the system as a whole is a col
 
 For example, a twice a week call with at least one path `maintainer` and two `contributors`. The `maintainer` reads the questions from chat as well as facilitating live asks. The two calls are scheduled to cover the average two major timezones of path participants. All `in-training` path participants are highly encouraged to attend live or submit questions in advance and watch the recording. The call is open to anyone in the path.
 
-- [ ] **_Community calls_**: Depending on the size of your community these can be any frequency from twice a week to monthly. Calls should not be less frequent than monthly. If your community is large and you need to have multiple calls in a week to cover timezones extra attention should be paid to keeping content between calls consistent (contributors should not miss important info or updates because they only joined one of the calls).
-- [ ] **_Community chats_**: Contributors should have private channel(s) to discuss contributions and bond as a community. Recommend to have one channel for `contributors` and `super-contributors` and another for everyone in the path.
-- [ ] **_Mentorship_**: New members coming into the path will need guidance and want to meet other contributors. Mentorship allows for new members to feel belonging, while also fostering culture integration and a shared understanding of expectations. When starting a path from scratch, path creators will need to cover mentorship until the `contributors` have a solid grasp on expectations and culture. From that point `maintainers` can assign `contributors` to mentor new members.
-- [ ] **_IRL meetups_**: OPTIONAL - IRL meetups only work (well) in distributed, established and large paths, and are not compulsory for paths. IRL events carry significant risk, especially if the contributors are organizing the events themselves. Additional guidelines should be created to set expectations (location guidelines - no events in someones basement, budget guidelines - no rewards or incentives should be provided initially, proof of event - checks that events did happen, especial if there are rewards/refunds for event runners).
+* [ ] **_Community calls_**: Depending on the size of your community these can be any frequency from twice a week to monthly. Calls should not be less frequent than monthly. If your community is large and you need to have multiple calls in a week to cover timezones extra attention should be paid to keeping content between calls consistent (contributors should not miss important info or updates because they only joined one of the calls).
+* [ ] **_Community chats_**: Contributors should have private channel(s) to discuss contributions and bond as a community. Recommend to have one channel for `contributors` and `super-contributors` and another for everyone in the path.
+* [ ] **_Mentorship_**: New members coming into the path will need guidance and want to meet other contributors. Mentorship allows for new members to feel belonging, while also fostering culture integration and a shared understanding of expectations. When starting a path from scratch, path creators will need to cover mentorship until the `contributors` have a solid grasp on expectations and culture. From that point `maintainers` can assign `contributors` to mentor new members.
+* [ ] **_IRL meetups_**: OPTIONAL - IRL meetups only work (well) in distributed, established and large paths, and are not compulsory for paths. IRL events carry significant risk, especially if the contributors are organizing the events themselves. Additional guidelines should be created to set expectations (location guidelines - no events in someones basement, budget guidelines - no rewards or incentives should be provided initially, proof of event - checks that events did happen, especial if there are rewards/refunds for event runners).
 
 ### Available tasks & contributions
 
 Each successive role will need defined scopes for their contributions. This is a critical step to avoid over eager but low context contributors from causing more harm than good. `wannabe` contributors need clearly defined tasks so they can get started, but should also have some scope for more creative or open ended but low context tasks so talented contributors can show their ability. `in-training` contributors need opportunities to try out the real thing - smaller versions of `contributor` opportunities are a good way to ensure they will be able to handle the `contributor` role. The `contributor` role is where the bulk of contributions and responsibilities should be.
 
-- [ ] **_Overview/TL;DR_**: If a contributor ONLY read this section, they should understand what the path is focused on, how to start and why they should get involved. What contribution is this path covering? Why is this work important? What is the scope and goal? The more transparent you can be here the more alignment your path will have. Being clear and upfront about rewards will also build trust and set expectations early on.
-- [ ] **_Contributions by role_**: What contributions are available to each role in the path? Giving context as to why certain tasks are only available to full contributors will help prevent low context contributors from wasting their time on tasks out of their range. If you will also offer bounties and or once off tasks, it can be useful to mention that the exist.
-- [ ] **_Example contributions_**: OPTIONAL - Having a document or section that highlights high quality contributions helps set and maintain quality minimums. It also is a way to give recognition to talented `contributors`, highlighting their best work.
+* [ ] **_Overview/TL;DR_**: If a contributor ONLY read this section, they should understand what the path is focused on, how to start and why they should get involved. What contribution is this path covering? Why is this work important? What is the scope and goal? The more transparent you can be here the more alignment your path will have. Being clear and upfront about rewards will also build trust and set expectations early on.
+* [ ] **_Contributions by role_**: What contributions are available to each role in the path? Giving context as to why certain tasks are only available to full contributors will help prevent low context contributors from wasting their time on tasks out of their range. If you will also offer bounties and or once off tasks, it can be useful to mention that the exist.
+* [ ] **_Example contributions_**: OPTIONAL - Having a document or section that highlights high quality contributions helps set and maintain quality minimums. It also is a way to give recognition to talented `contributors`, highlighting their best work.
 
 ### Expectations & activity minimums
 
 Clearly set expectations and clearly defined accountability are, in combination, the keystone that makes Contribution Paths work. These metrics need to be objective and publicly verifiable. There also need to be structures for non-`maintainers` to be able to challenge the `maintainers` tracking.
 
-- [ ] **_Activity minimums_**: Have clear and objective measurements for activity minimums. Activity minimums look like: minimum number of messages, number of tickets solved, rating from tickets solved, number of competed tasks, community calls joined, etc. Any quality minimums need to also meet this publicly verifiable criteria, for example: ratings from end users, views or engagement on content, etc. While some of these metrics will not be sybil resistant, you should try balance this with diversity of metric rather than avoiding game-able metrics.
+* [ ] **_Activity minimums_**: Have clear and objective measurements for activity minimums. Activity minimums look like: minimum number of messages, number of tickets solved, rating from tickets solved, number of competed tasks, community calls joined, etc. Any quality minimums need to also meet this publicly verifiable criteria, for example: ratings from end users, views or engagement on content, etc. While some of these metrics will not be sybil resistant, you should try balance this with diversity of metric rather than avoiding game-able metrics.
 
 ### Rewards & incentives
 
 Reward systems do not have to be simple, but they need to be understandable and transparent. Rather under-promise and over deliver here, under-delivering will destroy trust with contributors in a way that is quite difficult to recover from.
 
-- [ ] **_Rewards_**: A clear reward & incentive structure. Contributors should be able to gauge how they will be rewarded depending on their engagement.  Expectations should be clear: is there a guaranteed reward for a certain amount or contributions? Does a specific role come with guarantees? etc.
+* [ ] **_Rewards_**: A clear reward & incentive structure. Contributors should be able to gauge how they will be rewarded depending on their engagement.  Expectations should be clear: is there a guaranteed reward for a certain amount or contributions? Does a specific role come with guarantees? etc.
 
 Point systems can work quite well, i.e: each task is `x points`, every `y period` `z tokens` will be distributed between all points collected in `y period`.
 
@@ -247,8 +266,8 @@ Point systems can work quite well, i.e: each task is `x points`, every `y period
 
 Clearly defined consequences for not meeting minimums, as well as transparent rewards for meeting or exceeding minimums are essential. These should be introduced to contributors early in their onboarding to prevent mismatched expectations. These standards create transparent standards that contributors agree to when joining the path. Getting them to sign a TX/make an attestation in agreement can be a helpful signal.
 
-- [ ] **_Code of Conduct_**: Paths need to have code of conducts for those who don't know how to treat others with kindness. This can be an extension of existing code of conducts, but should additionally cover mentorship behavior expectations, reporting of violations and the accountability for violation. This should really only be covering "being a dick": bulling, harassment, discrimination, DOXXing, etc.
-- [ ] **_Accountability_**: If a contributor fails to meet their roles activity minimum, what happens? Are they demoted or removed? How long do they need to miss the minimum? How can they signal leave/holidays vs going MIA? Combined with the Activity minimums we have the _keystone_ for Contribution Paths.
+* [ ] **_Code of Conduct_**: Paths need to have code of conducts for those who don't know how to treat others with kindness. This can be an extension of existing code of conducts, but should additionally cover mentorship behavior expectations, reporting of violations and the accountability for violation. This should really only be covering "being a dick": bulling, harassment, discrimination, DOXXing, etc.
+* [ ] **_Accountability_**: If a contributor fails to meet their roles activity minimum, what happens? Are they demoted or removed? How long do they need to miss the minimum? How can they signal leave/holidays vs going MIA? Combined with the Activity minimums we have the _keystone_ for Contribution Paths.
 
 There should also be clearly defined ways to let `maintainers` know when contributors are taking leave and clear policies around this. For example, `contributors` who have signaled they are taking leave will not get removed from their role during this period, but will not collect points during this time. It's best not to limit how much leave contributors can take, just ensure they do not collect rewards without actively participating. Signaling leave is important to be able to distinguish between contributors who have disengaged or gone MIA vs those who just have a life.
 
