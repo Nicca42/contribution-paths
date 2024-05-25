@@ -23,15 +23,24 @@ A quick and dirty guide to Contribution Paths. Please note that these docs are a
 
 ---
 
+## Important terms
+
+`Establishing entity`: The company, project, community,
+`Contributor`:
+
 ## TL;DR
 
-Contribution Paths are a talent structuring framework that facilitates the growth & maintenance of a sustainable contributor network, around a specific skill-set or problem-set. Contribution Paths work best when they are used to create and maintain infrastructure rather than providing a service, but it can accommodate both.
+### The meta
 
-There must be incentives and rewards, and ideally in a self-sustaining way (sustainable value or impact generation). Upfront transparency around dependability and thresholds for qualifying for rewards help set contributor expectations.
+A Contribution Path is a framework for structuring contributions & contributors. Each path focuses on a specific skill-set (service) or problem-set (infrastructure). The path structure facilitates the growth & maintenance of a sustainable contributor network around the given problem/skill-set. Contribution Paths work best when they are used to create and maintain infrastructure rather than providing a service, but can accommodate both.
 
-Contributors must be given the respect and treated as co-workers. The interactions between the `core team`/`founding members`/`organization` creating the contribution path.
+Contribution Paths require an existing community. This community acts as the source for new contributors, as well as the baseline culture for the community in the path. Contributor culture is important because paths are established collaboratively with contributors. If the existing community culture is unkind or competitive the path will struggle to maintain itself once established. Note that paths are not detrimental to their host community, and can actually improve cultural norms through the practice of the paths' explicitly defined cultural expectations.
 
-Contribution Paths need to be established collaboratively with contributors. They are a community as much as they are individual contributors. Communities cannot be built, only grown between members. There needs to be thoughtful activity towards building community and networks.
+As paths are established collaboratively with contributors, it is critical that the establishing entity/group engages with contributors as equals, set a culture of kindness, mutual respect and reliable action.
+
+In line with mutual respect, meaningful contributions need to be meaningfully rewarded. These rewards, along with any incentives, should be sustainably funded (i.e the value created by the contributions can realistically sustain the rewards and incentives). Upfront transparency around rewards and incentives is critical for setting contributor expectations. If contributors have misaligned expectations of rewards they are more likely to become jaded or feel disenfranchised. Jaded ex-contributors can have long-term negative effects on the path and host community.
+
+### In practice
 
 Contribution Paths have two main roles: `contributors` and `maintainers`.
 
