@@ -32,33 +32,38 @@ A quick and dirty guide to Contribution Paths. Please note that these docs are a
 
 ### The meta
 
-A Contribution Path is a framework for structuring contributions & contributors. Each path focuses on a specific skill-set (service) or problem-set (infrastructure). The path structure facilitates the growth & maintenance of a sustainable contributor network around the given problem/skill-set. Contribution Paths work best when they are used to create and maintain infrastructure rather than providing a service, but can accommodate both.
+A Contribution Path is a framework for structuring contributions & contributors. Each path focuses on a specific skill-set or problem-set. The path structure facilitates the growth & maintenance of a sustainable contributor network around the given problem/skill-set. Contribution Paths work best when they are used to create and maintain infrastructure rather than providing a service, but can accommodate both.
 
-Contribution Paths require an existing community. This community acts as the source for new contributors, as well as the baseline culture for the community in the path. Contributor culture is important because paths are established collaboratively with contributors. If the existing community culture is unkind or competitive the path will struggle to maintain itself once established. Note that paths are not detrimental to their host community, and can actually improve cultural norms through the practice of the paths' explicitly defined cultural expectations.
+Contribution Paths require an existing community. This community acts as the source for new contributors, as well as the baseline culture for the community in the path. Contributor culture is important because paths are established collaboratively with contributors. If the existing community culture is unkind or competitive the path will struggle to maintain itself once established. Note that paths are not detrimental to their host community, and can improve cultural norms through the practice of the paths' explicitly defined cultural expectations.
 
 As paths are established collaboratively with contributors, it is critical that the establishing entity/group engages with contributors as equals, set a culture of kindness, mutual respect and reliable action.
 
-In line with mutual respect, meaningful contributions need to be meaningfully rewarded. These rewards, along with any incentives, should be sustainably funded (i.e the value created by the contributions can realistically sustain the rewards and incentives). Upfront transparency around rewards and incentives is critical for setting contributor expectations. If contributors have misaligned expectations of rewards they are more likely to become jaded or feel disenfranchised. Jaded ex-contributors can have long-term negative effects on the path and host community.
+In line with mutual respect, meaningful contributions need to be meaningfully rewarded. These rewards, along with any incentives, should be sustainably funded (i.e the value created by the contributions can realistically sustain the rewards and incentives). Upfront transparency around rewards and incentives is critical for setting contributor expectations. If contributors have misaligned expectations of rewards they are more likely to become jaded or feel disenfranchised. Jaded ex-contributors can have long-term negative effects on the path and host community. It is better to under-promise and over-deliver.
 
 ### In practice
 
 Contribution Paths have two main roles: `contributors` and `maintainers`.
 
-The `contributors` are split into four roles. The first two are for filtering for committed and talented contributors, and the latter two roles to distinguish between average-to-good contributors and the 1% contributors.
+#### The `contributors`
 
-Commitment & quality checks
+The `contributor` role is split into four roles. The first two are for filtering for committed and talented contributors, and the latter two roles to distinguish between average-to-good contributors and the 1% contributors.
 
-1. `wannabe-contributor` →
-2. `contributor-in-training` →
+1. **_`wannabe-contributor` → Commitment filter_**.
+   * Contributors need to contribute at least the minimum defined activity.
+   * Contributors must maintain that minimum for at least x weeks (in practice around eight weeks has proven to be a sufficient filter to remove most bots, scammers and low conviction contributors).
+2. **_`contributor-in-training` → Quality filter_**.
+   * Contributions are monitored by existing `contributors` for quality.
+   * Each `in-training` contributor get a mentor (an existing `contributor`) who gives practical feedback and guidance to increase the quality and impact of contributions.
+3. **_`contributor` → Contribution powerhouse_**.
+   * This is where the majority of contributions come from.
+4. **_`super-contributor` → The 1% contributors_**.
+   * These contributors are incredibly talented/skilled within the path. They are able to consistently go above and beyond, creating high quality and creative contributions & solutions.
 
-Contribution powerhouse
-
-3. `contributor` →
-4. `super-contributor`
+#### The `maintainers`
 
 The `maintainers` are contributors from any level of the `contributor` role who run and maintain the ecosystem of the Contribution Path. The responsibilities of this role are designed in such a way that correct execution of all actions (but especially controversial maintenance actions such as contributor removals or reward distributions) are publicly verifiable.
 
-- `maintainer`
+### Examples
 
 Let's look at an example Contribution Path to tie all these concepts together:
 
