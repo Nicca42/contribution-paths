@@ -72,7 +72,30 @@ Let's look at an example Contribution Path to tie all these concepts together:
       Established Contribution Path - new contributor journey
    </summary>
 
-   WIP
+   ### In this example we will walk through the steps for a new contributor to join and work up the context and skill to be a `contributor`.
+
+   #### Background
+   
+  Lets say we have a technical educational content creation path, creating guides and tutorials for technical infrastructure project. The path has been established and is mostly run by the `maintainers`.
+
+  The `contributor` we will follow is Sarah. She has been a member of the projects community for a few weeks. Her full time job uses the infrastructure provided by the project. She has always had a deep interest in tooling and infrastructure.
+
+   #### Discovery
+
+   First and foremost our contributor needs to discover the path. Sarah joined one of the weekly community calls and heard them talking about the new tasks on the bounty board. One of the problems that had been added was something Sarah knew a lot about, and she got nerd-snipped (captured by an interesting problem) by the task and volunteered to do it durning the call.
+
+   #### Onboarding
+
+   The `maintainer` from the call reached out to her afterwards, directing her to the paths resources, walking through minimum activities for her role, and showing her how to get the `wannabe` role (which she will need to compete the task). The `maintainer` asked her about her experience with technical content creation, and gave her some additional resources for first time tutorial writers.
+
+   #### `in-training`
+
+   After being meeting activity minimums and active for 2 months Sarah got the `in-training` role. Her and her assigned `mentor` went through the expectations, requirements and rewards for the `contributor` role, and spoke about what Sarah needed help with. After seeing the depth of her knowlage about the tooling, her `mentor` invited her to help answer tooling questions with other new `contributors`.
+
+   #### `contributor`
+
+   After being an active `in-training` contributor for 2 months Sarah was nominated by her `mentor` for the `contributor` role. Once a `contributor`, Sarah was able to contribute towards some of the more in-depth tasks that had been on the board for a while.
+
 </details>
 
 <details>
@@ -80,9 +103,9 @@ Let's look at an example Contribution Path to tie all these concepts together:
       New Contribution Path - establishing a path
    </summary>
 
-   ### In this example we will create at a Contribution Path to run an applications' user support
+   ### In this example we will create at a Contribution Path to run an applications' user support.
 
-   #### Background:
+   #### Background
 
    Lets say we have an onchain DeFi application. It allows users to do swaps and over-collateralized lending/borrowing. They have a few million in TVL, and a Discord with 50k "people" (there area always bots/multiple account farmers, etc).
 
@@ -90,7 +113,7 @@ Let's look at an example Contribution Path to tie all these concepts together:
 
    For the sake of simplicity we will not give these contributors a name, however the branding of a Contribution Path can go far! For example, in the Optimism ecosystem our technical support contributors are called techNERDs. The role names are updated accordingly, `wannabe-techNERD`, `techNERD-in-training` etc.
 
-   #### Prep work:
+   #### Prep work
 
 * The Community Manager will spend 2-4 weeks observing & engaging with their community.
    * Who are the folks talking daily?
@@ -108,14 +131,14 @@ Let's look at an example Contribution Path to tie all these concepts together:
 
 The purpose of this high touch and high engagement period is to find the best fit contributors available. This initial group will set the culture of contributors going forward, so it is essential this step is completed intentionally and not rushed.
 
-#### Getting started:
+#### Getting started
 
 * Once the documentation is completed and shared with the community, a Discord channel is set up that allows anyone to get the `wannabe-contributor` role, and begin completing `wannabe` level tasks. Contributors should be closely observed.
    * The community manager will need to act as the initial mentor, providing feedback on contributions, engaging daily, hosting calls, etc.
    * In larger communities it may not make sense to start with the role open given the mentorship capacity of the team. Instead, the path can be closed to new `wannabes`, limiting the initial pool to the curated community members. Once the first group of `contributors` is established, the path can then be opened.
    * To select the contributors that move to `in-training` the Community Manager runs interviews. These can be as short as 15 minutes, and should be a vibe check (the contributor is not a dick and not a bot) and context setting (this is what the path will do, this is how rewards work, this is the quality expectation).
 
-#### First contributions:
+#### First contributions
 
 Once there are contributors with the `in-training` role, the path starts to function. While these contributors are in training it is essential that the initial mentors (Contribution Manager or other team members) are monitoring their engagement.
 
