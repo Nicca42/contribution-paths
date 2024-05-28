@@ -5,16 +5,20 @@ A quick and dirty guide to Contribution Paths. Please note that these docs are a
 ## Index
 
 1. [TL;DR](#tldr)
+   1. [The meta](#the-meta)
+   1. [In practice](#in-practice)
+   1. [Examples](#examples)
 1. [What is a Contribution Path?](#what-is-a-contribution-path)
    1. [Key traits of a Contribution Path](#key-traits-of-a-contribution-path)
    1. [Benefits of a Contribution Path](#benefits-of-a-contribution-path)
-1. [Contribution Path roles overview](#contribution-path-roles-overview)
-   1. [`wannabe-contributor` role overview](#wannabe-contributor-role-overview)
-   1. [`contributor-in-training` role overview](#contributor-in-training-role-overview)
-   1. [`contributor` role overview](#contributor-role-overview)
-   1. [`super-contributor` role overview](#super-contributor-role-overview)
-   1. [`maintainer` role overview](#maintainer-role-overview)
+1. [Contribution Path roles](#contribution-path-roles)
+   1. [`wannabe-contributor` role](#wannabe-contributor-role)
+   1. [`contributor-in-training` role](#contributor-in-training-role)
+   1. [`contributor` role](#contributor-role)
+   1. [`super-contributor` role](#super-contributor-role)
+   1. [`maintainer` role](#maintainer-role)
 1. [Creating a Contribution Path Checklist](#creating-a-contribution-path-checklist)
+   1. [Direction & goals](#direction--goals)
    1. [Communal environment](#communal-environment)
    1. [Available tasks & contributions](#available-tasks--contributions)
    1. [Expectations & activity minimums](#expectations--activity-minimums)
@@ -22,11 +26,6 @@ A quick and dirty guide to Contribution Paths. Please note that these docs are a
    1. [Accountability](#accountability)
 
 ---
-
-## Important terms
-
-`Establishing entity`: The company, project, community,
-`Contributor`:
 
 ## TL;DR
 
@@ -95,7 +94,6 @@ Let's look at an example Contribution Path to tie all these concepts together:
    #### `contributor`
 
    After being an active `in-training` contributor for 2 months Sarah was nominated by her `mentor` for the `contributor` role. Once a `contributor`, Sarah was able to contribute towards some of the more in-depth tasks that had been on the board for a while.
-
 </details>
 
 <details>
@@ -191,7 +189,7 @@ Contribution Paths have the following benefits for contributors:
 * **_Clear expectations:_** Clearly defined roles and expectations reduce a lot of the human friction and politics that can arise when contributing in a decentralized system.
 * **_Churn resilience:_** Through the use of the `maintainer` role, Contribution Paths are relatively resilient to contributor churn, making them more sustainable over longer time horizons.
 
-## Contribution Path roles overview
+## Contribution Path roles
 
 Contribution Paths are made up of four successive roles and a fifth maintenance role.
 
@@ -205,7 +203,7 @@ Maintainers give the path structure and consistency. Maintainers track contribut
 
 In combination these successive and maintenance roles enables the paths to be reliable execution systems, that can handle execution.
 
-### `wannabe-contributor` role overview
+### `wannabe-contributor` role
 
 * **_Context exposure:_** What path specific context is there that this contribution may require? For example, user supporters would need to understand how a product worked.
 * **_Expectation setting:_** What does it mean to be a part of this path, what is expected from me in the various roles?
@@ -214,27 +212,23 @@ In combination these successive and maintenance roles enables the paths to be re
 * **_Commitment assessment:_** A set amount of time a contributor must stay at this level regardless of skill or talent. Usually 3 months. This ensures that contributors are "in it for the long haul" and are able to consistently engage.
 * **_Contribution quality assessment:_** This role has a limited number of low context tasks that contributors are able to participate in or complete, allowing them to showcase their ability.
 
-### `contributor-in-training` role overview
+### `contributor-in-training` role
 
 * **_Mentorship for skills & quality:_** How do things get done, and what is the expectation for contributions? Each `in-training` contributor is assigned a mentor from the existing `contributor` role. This mentor will guide them through the contribution process, and guide them through contributing work that meets (and hopefully exceeds) quality minimums.
 * **_Mentorship for culture:_** Who can I ask about x? Culture mentors facilitate introductions into the contributor community. Like skill mentors, are assigned to mew `in-training` contributors by the `maintainer`s. Having both creates some accountability, and gives the new contributor more high contact touch points with the contributor community.
 * **_Commitment assessment:_** A set amount of time a contributor must stay at this level regardless of skill or talent. Usually 2 months. This ensures that contributors are "in it for the long haul" and are able to consistently engage.
 * **_Contribution quality assessment:_** This role has a limited number of higher context and skill requiring tasks that contributors are able to participate in or complete, allowing them to showcase their ability.
 
-### `contributor` role overview
+### `contributor` role
 
 * **_Execution engine:_** `contributor`s are the powerhouse of Contribution Paths, and are were most of the high quality contributions will be done.
-* **_Mentorship & up-skilling:_**
-* **_:_**
-* **_:_**
+* **_Mentorship & up-skilling:_** Mentorship is critical to creating a consistent culture, understanding of requirements and quality requirements. It also offers an opportunity for contributors to improve their skills, which creates a more generous environment as they pass that kindness on.
 
-### `super-contributor` role overview
+### `super-contributor` role
 
 * **_High performers:_** This role contains only the highest performing contributors. They should have a high contextual understanding and well as incredible talent or skill in the given contribution type. They can be reliably trusted to contribute impactful, high quality work, or create out the box and creating solutions.
-* **_:_**
-* **_:_**
 
-### `maintainer` role overview
+### `maintainer` role
 
 By having the leadership role & responsibilities of the path divided amongst a role, many of the pitfalls of decentralized collaboration can be avoided.
 
@@ -252,6 +246,44 @@ Contributors need to be able to onboard themselves - as such the information req
 
 The following sections are intended to set up your path covering the most critical information, structures and common questions. Documents should be stored in one central location (or even in one well sectioned doc) so they are easy to discover and reference. Once a path is established `maintainers` should be able to update docs (with concent/buy-in from the path participants).
 
+Below is a check-off-able list of the minimum things you will need to create & settle before opening a path.
+
+* [ ] Structures
+  * [ ] [Direction & goals](#direction--goals)
+    * [ ] Clarity of scope
+    * [ ] Budget clarity
+    * [ ] Clear metrics
+  * [ ] [Communal environment](#communal-environment)
+    * [ ] Community calls
+    * [ ] Async chat spaces
+    * [ ] Mentorship
+    * [ ] IRL meetups
+* [ ] Governing documents
+  * [ ] [Available tasks & contributions](#available-tasks--contributions)
+    * [ ] Overview/TL;DR
+    * [ ] Contributions by role
+    * [ ] Example contributions
+  * [ ] [Expectations & activity minimums](#expectations--activity-minimums)
+    * [ ] Activity minimums
+    * [ ] Community engagement
+  * [ ] [Rewards & incentives](#rewards--incentives)
+    * [ ] Rewards
+    * [ ] Incentives
+  * [ ] [Accountability](#accountability)
+    * [ ] Code of Conduct
+    * [ ] Accountability
+* [ ] Getting legal sign-off/consultation
+  - Depending on what country you are in there may be additional legal constraints around rewards and incentives, such as sanctions, KYC, etc. Check!!
+
+### Direction & goals
+
+Before starting a path it is essential that there are clear goals, budgets and operating parameters figured out for the path. Starting without clarity in these fields can create an unstable contribution environment, and result in the loss of talented contributors.
+
+* [ ] **_Clarity of scope_**: What is the path responsible for doing? How long is this path going to need to exist for? How important is it to the founding communities goals and vision? Asking the question is simple, but the work required to get buy in and agreement of the scope, and how it may evolve, is not something to underestimate.
+* [ ] **_Budget clarity_**: If any of the paths rewards are being provided by the founding community/organization, what are the requirements for that funding? Are there conditions where it may be "cut off"? If rewards are granted by governance proposals, or external grants, clarity is essential. Providing transparency builds trust, while also allowing for explicit definitions of path productivity rewards.
+* [ ] **_Clear metrics_**: This allows establishing paths to have clear outcomes to work towards. It also prevents the path from branching out too aggressively into unfocused projects (this is more common of an issue in creative paths).
+
+
 ### Communal environment
 
 One of the key benefits for both contributors and the system as a whole is a collaborative environment, resulting in overall higher quality contributions. To foster collaboration there needs to be a community to collaborate within. Community events need to be reliably held at a set cadence. They should accommodate chat interactions as well as voice/video interactions. They should be moderated (kicking trolls, its on the internet after all) as well as reliably having contributors with higher context to answer questions & set the cultural vibe.
@@ -259,7 +291,7 @@ One of the key benefits for both contributors and the system as a whole is a col
 For example, a twice a week call with at least one path `maintainer` and two `contributors`. The `maintainer` reads the questions from chat as well as facilitating live asks. The two calls are scheduled to cover the average two major timezones of path participants. All `in-training` path participants are highly encouraged to attend live or submit questions in advance and watch the recording. The call is open to anyone in the path.
 
 * [ ] **_Community calls_**: Depending on the size of your community these can be any frequency from twice a week to monthly. Calls should not be less frequent than monthly. If your community is large and you need to have multiple calls in a week to cover timezones extra attention should be paid to keeping content between calls consistent (contributors should not miss important info or updates because they only joined one of the calls).
-* [ ] **_Community chats_**: Contributors should have private channel(s) to discuss contributions and bond as a community. Recommend to have one channel for `contributors` and `super-contributors` and another for everyone in the path.
+* [ ] **Async chat spaces_**: Contributors should have private channel(s) to discuss contributions and bond as a community. Recommend to have one channel for `contributors` and `super-contributors` and another for everyone in the path.
 * [ ] **_Mentorship_**: New members coming into the path will need guidance and want to meet other contributors. Mentorship allows for new members to feel belonging, while also fostering culture integration and a shared understanding of expectations. When starting a path from scratch, path creators will need to cover mentorship until the `contributors` have a solid grasp on expectations and culture. From that point `maintainers` can assign `contributors` to mentor new members.
 * [ ] **_IRL meetups_**: OPTIONAL - IRL meetups only work (well) in distributed, established and large paths, and are not compulsory for paths. IRL events carry significant risk, especially if the contributors are organizing the events themselves. Additional guidelines should be created to set expectations (location guidelines - no events in someones basement, budget guidelines - no rewards or incentives should be provided initially, proof of event - checks that events did happen, especial if there are rewards/refunds for event runners).
 
@@ -276,12 +308,14 @@ Each successive role will need defined scopes for their contributions. This is a
 Clearly set expectations and clearly defined accountability are, in combination, the keystone that makes Contribution Paths work. These metrics need to be objective and publicly verifiable. There also need to be structures for non-`maintainers` to be able to challenge the `maintainers` tracking.
 
 * [ ] **_Activity minimums_**: Have clear and objective measurements for activity minimums. Activity minimums look like: minimum number of messages, number of tickets solved, rating from tickets solved, number of competed tasks, community calls joined, etc. Any quality minimums need to also meet this publicly verifiable criteria, for example: ratings from end users, views or engagement on content, etc. While some of these metrics will not be sybil resistant, you should try balance this with diversity of metric rather than avoiding game-able metrics.
+* [ ] **_Community engagement_**: Contributors should be expected to engage with the community beyond the path community. This does not have to be a requirement, but setting this as an expectation helps build a stronger community.
 
 ### Rewards & incentives
 
 Reward systems do not have to be simple, but they need to be understandable and transparent. Rather under-promise and over deliver here, under-delivering will destroy trust with contributors in a way that is quite difficult to recover from.
 
 * [ ] **_Rewards_**: A clear reward & incentive structure. Contributors should be able to gauge how they will be rewarded depending on their engagement.  Expectations should be clear: is there a guaranteed reward for a certain amount or contributions? Does a specific role come with guarantees? etc.
+* [ ] **_Incentives_**: Incentives work well for onboarding new contributors, or for completing projects with a tighter timeline or narrow scope. 
 
 Point systems can work quite well, i.e: each task is `x points`, every `y period` `z tokens` will be distributed between all points collected in `y period`.
 
